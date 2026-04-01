@@ -9,3 +9,6 @@
 /Assets/ScriptTemplateToolkit
 /Assets/ScriptTemplateToolkit.meta
 /UnityProject/.vs
+/*.vsconfig
+/.vs
+/Logs
