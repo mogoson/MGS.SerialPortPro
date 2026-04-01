@@ -1,0 +1,24 @@
+{
+    "name": "com.mgs.serialportpro",
+    "version": "1.0.0",
+    "displayName": "SerialPort Pro",
+    "description": "Expansion for SerialPort in Unity project.",
+    "unity": "2021.3",
+    "keywords": [
+        "SerialPort",
+        "Expansion",
+        "IO"
+    ],
+    "author": {
+        "name": "Mogoson",
+        "email": "mogoson@outlook.com",
+        "url": "https://github.com/mogoson"
+    },
+    "samples": [
+        {
+            "displayName": "Sample",
+            "description": "Sample for SerialPort in Unity project.",
+            "path": "Samples~/Sample"
+        }
+    ]
+}
