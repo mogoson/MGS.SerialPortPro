@@ -1,6 +1,6 @@
 {
-    "name": "MGS.IO.Ports",
-    "rootNamespace": "MGS.IO.Ports",
+    "name": "MGS.SerialPortPro",
+    "rootNamespace": "MGS.SerialPortPro",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

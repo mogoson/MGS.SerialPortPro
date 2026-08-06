@@ -16,7 +16,7 @@ using System.Linq;
 using System.Threading;
 using UnityEngine;
 
-namespace MGS.IO.Ports
+namespace MGS.SerialPortPro
 {
     public class SerialPortPro : SerialPort
     {

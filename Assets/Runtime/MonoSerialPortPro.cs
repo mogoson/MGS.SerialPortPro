@@ -14,7 +14,7 @@ using System;
 using System.IO.Ports;
 using UnityEngine;
 
-namespace MGS.IO.Ports
+namespace MGS.SerialPortPro
 {
     public class MonoSerialPortPro : MonoBehaviour
     {

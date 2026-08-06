@@ -15,7 +15,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using UnityEngine;
 
-namespace MGS.IO.Ports
+namespace MGS.SerialPortPro
 {
     [RequireComponent(typeof(MonoSerialPortPro))]
     public class MonoSerialPortProHUD : MonoBehaviour
